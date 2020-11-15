@@ -1,0 +1,13 @@
+.container-fluid{
+	margin: auto;
+}
+.card-body{
+	background: #1569C7;
+	color: white;
+}
+.mb-3{
+	font-size: 20px;
+}
+.fa fa-check-square{
+	font-size: 20px;
+}
